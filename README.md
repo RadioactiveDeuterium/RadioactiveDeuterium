@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Techincal Director @ SocialSquared Digital Marketing  
-Computer Science Student
+Software Dev working in Web3
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadioactiveDeuterium)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
